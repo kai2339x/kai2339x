@@ -1,16 +1,123 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Yobi Eibi Muñoz Zenizario</h1>
 
-<!--
-**kai2339x/kai2339x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+💻 Software Engineering Student | Game Development Enthusiast | AI & Backend Developer
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+Passionate about software development, technology, artificial intelligence, and creating innovative digital experiences.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Game+Development+Enthusiast;AI+and+Backend+Developer;Building+Interesting+Projects+Every+Day" />
+</p>
+
+---
+
+## 🚀 About Me
+
+- 🎓 Software Engineering Student
+- 💡 Interested in:
+  - Artificial Intelligence
+  - Backend Development
+  - Game Development
+  - Software Architecture
+  - Data Structures & Algorithms
+
+- 🔭 Currently building:
+  - Voice Transcription Projects
+  - C++ & .NET Applications
+  - Interactive Software Solutions
+
+- 🌱 Currently learning:
+  - Machine Learning
+  - Design Patterns
+  - Full Stack Development
+  - Advanced C++
+
+- ⚡ I enjoy creating projects that combine technology, creativity, and problem solving.
+
+---
+
+## 🛠️ Technologies & Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,cs,python,java,js,html,css,mysql,git,github,vscode,visualstudio,dotnet" />
+
+</p>
+
+---
+
+## 🎮 Interests
+
+- 🎮 Game Development
+- 🤖 Artificial Intelligence
+- 🎤 Voice Processing & Transcription
+- 🧠 Problem Solving
+- ⚙️ Software Engineering
+- 💻 Desktop Applications
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kai2339x&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kai2339x&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=kai2339x&theme=tokyonight"/>
+
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=kai2339x&theme=tokyonight&row=1&column=6"/>
+
+</p>
+
+---
+
+## 📫 Contact Me
+
+<p align="center">
+
+<a href="mailto:munozeibi@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/yobi-eibi-muñoz-zenizario-422033358">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=kai2339x&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+<p align="center">
+✨ “Code, Create, Learn, Repeat.” ✨
+</p>
