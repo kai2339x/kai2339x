@@ -98,10 +98,29 @@ Passionate about software development, technology, artificial intelligence, and 
 
 ---
 
-## 👀 Profile Views
+## 📌 GitHub Overview
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=kai2339x&label=Visitors&color=blueviolet&style=for-the-badge" />
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/github/followers/kai2339x?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/github/stars/kai2339x?style=for-the-badge" />
+</p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kai2339x&theme=tokyonight"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kai2339x&theme=tokyo-night"/>
+
 </p>
 
 ---
