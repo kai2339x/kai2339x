@@ -27,7 +27,6 @@ Passionate about software development, technology, artificial intelligence, and 
   - Data Structures & Algorithms
 
 - 🔭 Currently building:
-  - Voice Transcription Projects
   - C++ & .NET Applications
   - Interactive Software Solutions
 
