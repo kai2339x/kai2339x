@@ -101,7 +101,7 @@ Passionate about software development, technology, artificial intelligence, and 
 ## 👀 Profile Views
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=kai2339x&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=kai2339x&label=Visitors&color=blueviolet&style=for-the-badge" />
 </p>
 
 ---
