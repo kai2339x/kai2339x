@@ -105,14 +105,18 @@ Passionate about software development, technology, artificial intelligence, and 
 </p>
 
 <p align="center">
+
 <img src="https://img.shields.io/github/followers/kai2339x?style=for-the-badge&logo=github" />
+
 <img src="https://img.shields.io/github/stars/kai2339x?style=for-the-badge" />
+
 </p>
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kai2339x&theme=tokyonight"/>
-</p>
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kai2339x&theme=tokyonight"/>
+
+</p>
 ---
 
 ## 📈 Contribution Graph
