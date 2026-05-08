@@ -54,7 +54,6 @@ Passionate about software development, technology, artificial intelligence, and 
 
 - 🎮 Game Development
 - 🤖 Artificial Intelligence
-- 🎤 Voice Processing & Transcription
 - 🧠 Problem Solving
 - ⚙️ Software Engineering
 - 💻 Desktop Applications
