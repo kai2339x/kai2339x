@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yobi Eibi Muñoz Zenizario</h1>
 
 <h3 align="center">
-💻 Software Engineering Student | Game Development Enthusiast | AI & Backend Developer
+💻 Software Engineering | Game Development Enthusiast | AI & Backend Developer
 </h3>
 
 <p align="center">
